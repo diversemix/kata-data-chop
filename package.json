@@ -1,0 +1,22 @@
+{
+  "name": "kata-data-chop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversemix/kata-data-chop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversemix/kata-data-chop/issues"
+  },
+  "homepage": "https://github.com/diversemix/kata-data-chop#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
